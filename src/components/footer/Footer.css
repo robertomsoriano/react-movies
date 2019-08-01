@@ -1,0 +1,21 @@
+  footer {
+    height: 100px;
+    background: linear-gradient(to right,#06D475, #06D475);
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: VT323, monospace;
+    color: white;
+    justify-content: center;
+    border-bottom: 1px solid #a9adac;
+  }
+  
+  
+  footer h1 {
+    font-size: 2rem;
+    color:  #06D475
+  }
+
+

@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis");
+@import url("https://fonts.googleapis.com/css?family=Dosis|Titillium+Web");
+
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: VT323, monospace;
+  }
